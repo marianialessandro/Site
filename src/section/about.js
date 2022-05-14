@@ -1,8 +1,4 @@
 import * as React from 'react';
-import ReactDOM from 'react-dom';
-import Button from '@mui/material/Button';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCaretRight } from '@fortawesome/free-solid-svg-icons'
 
 import "./styles/about.css";
 
