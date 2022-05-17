@@ -8,7 +8,7 @@ function Presentation() {
         <div className="presentation">
             <div className="presentationContent">
                 <div className="columnLeft">
-                    <a href="https://github.com/alessandro1234-tech"><i className="fa fa-github"></i></a>
+                    <a href="https://github.com/marianialessandro"><i className="fa fa-github"></i></a>
                     <a href="https://www.linkedin.com/in/alessandro-mariani-7a53981aa/"><i className="fa fa-linkedin"></i></a>
                 </div>
                 <div className="contentColumn">
