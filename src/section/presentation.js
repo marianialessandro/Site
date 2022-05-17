@@ -1,4 +1,5 @@
 import React from "react";
+import TypeWriterEffect from 'react-typewriter-effect';
 
 import './styles/presentation.css';
 
@@ -12,7 +13,13 @@ function Presentation() {
                 </div>
                 <div className="contentColumn">
                     <div className="columnContent">
-                        <h1>Alessandro Mariani</h1>
+                    <TypeWriterEffect
+                        startDelay={100}
+                        cursorColor="black"
+                        text="Alessandro Mariani"
+                        typeSpeed={100}
+                    />
+
                         <h2>I build things</h2>
                         <p>I am a student of high school student in the computer science.<br></br>I create applications, scripts, tools of any kind and more.</p>
                     </div>
