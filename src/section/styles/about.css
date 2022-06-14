@@ -81,8 +81,8 @@
 }
 
 #foto{
-    height: 270px;
-    width: 270px;
+    height: 300px;
+    width: 300px;
 
     transform: translateX(-90px);
     transform: translateY(-50px);
@@ -102,7 +102,7 @@
 
     .about .aboutContent .descriptionParagraph p.description{
         width: 100%;
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .about .aboutContent .languageContainer{
@@ -125,7 +125,15 @@
     }
 
     .column2{
-        margin-top: 50px;
+        margin-top: 30px;
         width: 100%;
+    }
+
+    #foto{
+        height: 270px;
+        width: 270px;
+    
+        margin-top: 25px;
+        margin-left: -10px;
     }
 }
