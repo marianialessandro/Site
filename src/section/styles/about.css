@@ -69,7 +69,13 @@
 /* Create two equal columns that floats next to each other */
 .column2 {
     float: left;
-    width: 50%;
+    width: 60%;
+    padding: 10px;
+}
+
+.photoSection{
+    float: left;
+    width: 40%;
     padding: 10px;
 }
 
@@ -83,6 +89,8 @@
 #foto{
     height: 300px;
     width: 300px;
+
+    margin-right: 95px;
 
     transform: translateX(-90px);
     transform: translateY(-50px);

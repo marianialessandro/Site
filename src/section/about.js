@@ -14,7 +14,7 @@ function About() {
                         <p className="description middle">I like creating tools and scripts of any kind to automate tedious and repetitive tasks. Lately I have been interested in the development of static and dynamic interfaces and web pages.</p>
                     </div>
                     </div>
-                    <div className="column2">
+                    <div className="photoSection">
                         <img src="https://marianialessandro.com/profilepicture/alessandromariani" id="foto"></img>
                     </div>
                 </div>

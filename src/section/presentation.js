@@ -14,14 +14,20 @@ function Presentation() {
                 <div className="contentColumn">
                     <div className="columnContent">
                     <TypeWriterEffect
+
+                        loop={true}
+
                         startDelay={100}
-                        cursorColor="black"
+                        cursorColor="white"
                         text="Alessandro Mariani"
                         typeSpeed={100}
                     />
 
                         <h2>I build things</h2>
-                        <p>I am a student of high school student in the computer science.<br></br>I create applications, scripts, tools of any kind and more.</p>
+                        <p>
+                            Computer science student at the University of Pisa. <br />
+                            I like creating applications, scripts, tools of any kind and more.
+                        </p>
                     </div>
                     <div className="socialBottomBar">
                         <a href="https://github.com/marianialessandro"><i className="fa fa-github"></i></a>
