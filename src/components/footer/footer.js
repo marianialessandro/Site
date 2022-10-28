@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./footer.css";
 
 function Footer() {
@@ -10,7 +10,7 @@ function Footer() {
     return (
         <footer>
             <p>
-                Copyright © {getActualYear()} <a href="#">Alessandro Mariani</a> All rights reserved
+                Copyright © {getActualYear()} <a href="https://www.marianialessandro.com">Alessandro Mariani</a> All rights reserved
             </p>
         </footer>
     );
