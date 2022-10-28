@@ -10,6 +10,18 @@ import Header from "./components/header/header"
 import Skills from "./section/skills"
 
 function App() {
+
+    return(
+        <div className="App">
+            <Presentation />
+            <About />
+            <Skills />
+            <Contacts />
+            <Footer />
+        </div>
+    );
+
+    /*
   return (
     <div className="App">
       <Presentation /> 
@@ -19,6 +31,7 @@ function App() {
       <Footer />
     </div>
   );
+     */
 }
 
 export default App;

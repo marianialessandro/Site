@@ -100,6 +100,10 @@
     visibility: hidden;
 }
 
+#typeWriter{
+    font-weight: bolder;
+}
+
 /*Tablet and smartphone*/
 @media screen and (max-width: 820px) {
 
