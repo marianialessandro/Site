@@ -77,18 +77,4 @@ export default function Skills() {
             </div>
         </div>
     );
-
-    /*
-    return (
-        <>
-            <Container>
-                <Row>
-                    <Col sm>sm=true</Col>
-                    <Col sm>sm=true</Col>
-                    <Col sm>sm=true</Col>
-                </Row>
-            </Container>
-        </>
-    );
-     */
 }
